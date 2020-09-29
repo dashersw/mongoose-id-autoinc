@@ -3,11 +3,9 @@
   "description": "Creating of auto increment id fields",
   "version": "0.3.0",
   "author": "MarioDu",
-  "dependencies": {
-    "mongoose": "3.8.15"
-  },
-  "devDependencies": {
-    "mongoose": "3.8.15"
+  "dependencies": {},
+  "peerDependencies": {
+    "mongoose": "^5.10.7"
   },
   "homepage": "http://dujiakun.com",
   "keywords": [
