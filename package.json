@@ -1,7 +1,7 @@
 {
   "name": "@dashersw/mongoose-id-autoinc",
   "description": "Creating of auto increment id fields",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "MarioDu",
   "dependencies": {
     "mongoose": "3.8.15"
